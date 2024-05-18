@@ -1,0 +1,4 @@
+Iam writing content using newly created file named assignment.txt
+which is in folder git_assignment
+
+iam writing using master branch
